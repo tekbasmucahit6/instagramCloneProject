@@ -1,0 +1,10 @@
+@import "swiper/css";
+@import "swiper/css/pagination";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-black
+  text-white
+}
