@@ -15,7 +15,7 @@ function StoryLayout() {
     <div className='flex justify-start items-center gap-5 py-2'>
         <Swiper
         spaceBetween={20}
-        slidesPerView={5} // Aynı anda kaç hikaye gösterileceğini ayarlar
+        slidesPerView={4} // Aynı anda kaç hikaye gösterileceğini ayarlar
 
         centeredSlides={false} // Hikayelerin ortalanmasını sağlar
         modules={[Pagination]} // Pagination modülü eklenir

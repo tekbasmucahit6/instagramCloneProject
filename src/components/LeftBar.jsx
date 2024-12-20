@@ -16,7 +16,7 @@ import { MdMenu } from "react-icons/md";
 
 function LeftBar() {
   return (
-    <div className='flex flex-col justify-start items-start w-full h-full'>
+    <div className='flex flex-col justify-start items-start w-full h-full bg-black'>
         
         {/* logo event */}
         <div className='hidden xl:flex lg:flex md:flex xl:mx-6 py-10 font-serif justify-center items-center xl:justify-normal xl:items-start w-full'>

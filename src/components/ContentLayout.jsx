@@ -10,7 +10,11 @@ function ContentLayout() {
         <StoryLayout />
 
 
-        <div className='flex flex-col justify-center items-center'>
+        <div className='flex flex-col justify-center items-center z-0'>
+            <Post />
+            <Post />
+            <Post />
+            <Post />
             <Post />
         </div>
 
