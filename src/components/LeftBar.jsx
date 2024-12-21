@@ -30,8 +30,8 @@ function LeftBar() {
             <NavbarItem ıcon={FaSearch} text={"Ara"} style={"flex justify-center xl:justify-start items-center gap-3 hover:bg-gray-600/90 hidden xl:flex lg:flex md:flex py-3 xl:py-1 lg:py-1 md:py-1 w-full"} />
             <NavbarItem ıcon={MdOutlineExplore} text={"Keşfet"} style={"flex justify-center xl:justify-start items-center gap-3 hover:bg-gray-600/90 py-3 xl:py-1 lg:py-1 md:py-1 w-full"} />
             <NavbarItem ıcon={TfiVideoClapper} text={"Reels"} style={"flex justify-center xl:justify-start items-center gap-3 hover:bg-gray-600/90 py-3 xl:py-1 lg:py-1 md:py-1 w-full"} />
-            <NavbarItem ıcon={FaFacebookMessenger} text={"Mesajlar"} style={"flex justify-center xl:justify-start items-center gap-3 hover:bg-gray-600/90 hidden xl:flex lg:flex md:flex py-3 xl:py-1 lg:py-1 md:py-1 w-full"} />
-            <NavbarItem ıcon={FaRegHeart} text={"Bildirimler"} style={"flex justify-center xl:justify-start items-center gap-3 hover:bg-gray-600/90 py-3 xl:py-1 lg:py-1 md:py-1 w-full"} />
+            <NavbarItem ıcon={FaFacebookMessenger} text={"Mesajlar"} style={"flex justify-center xl:justify-start items-center gap-3 hover:bg-gray-600/90 py-3 xl:py-1 lg:py-1 md:py-1 w-full"} />
+            <NavbarItem ıcon={FaRegHeart} text={"Bildirimler"} style={"flex justify-center xl:justify-start items-center gap-3 hover:bg-gray-600/90 hidden xl:flex lg:flex md:flex py-3 xl:py-1 lg:py-1 md:py-1 w-full"} />
             <NavbarItem ıcon={CiSquarePlus} text={"Oluştur"} style={"flex justify-center xl:justify-start items-center gap-3 hover:bg-gray-600/90 py-3 xl:py-1 lg:py-1 md:py-1 w-full"} />
             <NavbarItem ıcon={MdOutlineAccountCircle} text={"Profil"} style={"flex justify-center xl:justify-start items-center gap-3 hover:bg-gray-600/90 py-3 xl:py-1 lg:py-1 md:py-1 w-full"} />
         </div>

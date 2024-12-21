@@ -1,5 +1,5 @@
 import React from 'react'
-import SingleStory from '../../../components/SingleStory'
+import SingleStory from "./SingleStory"
 
 
 import { Swiper, SwiperSlide } from "swiper/react";

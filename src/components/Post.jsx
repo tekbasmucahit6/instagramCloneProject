@@ -36,23 +36,24 @@ function Post() {
 
 
                 <div className='flex justify-center items-center gap-5'>
-                    <FaRegHeart size={24} />
-                    <BiMessageRounded size={24} />
-                    <LuSend size={24} />
+                    <FaRegHeart className='cursor-pointer' size={24} />
+                    <BiMessageRounded className='cursor-pointer' size={24} />
+                    <LuSend className='cursor-pointer' size={24} />
                 </div>
 
                 <div className='flex justify-end items-center'>
-                <FaRegBookmark size={24} />
+                <FaRegBookmark className='cursor-pointer' size={24} />
                 </div>
 
 
             </div>
 
             <div
-                className='flex flex-col justify-center items-start my-2 gap-1 w-full'>
+                className='flex flex-col justify-center items-start my-3 gap-1 w-full'>
+                    <p className='text-sm'>1M beğenme</p>
                     <p className='text-lg'>mucahitxtekbs 🙏</p>
-                    <p className='text-sm'>1500 yorumun tamamını gör</p>
-                    <p className='text-sm flex justify-between items-center w-full'><span>Yorum ekle</span><span>😊</span></p>
+                    <p className='text-sm text-gray-400/50'>1500 yorumun tamamını gör</p>
+                    <p className='text-sm text-gray-400/50 flex justify-between items-center w-full'><span>Yorum ekle</span><span>😊</span></p>
             </div>
 
             <div

@@ -1,7 +1,8 @@
 import React from 'react'
 import ContentNavbar from '../pages/index/components/ContentNavbar'
-import StoryLayout from '../pages/index/components/StoryLayout'
+
 import Post from './Post'
+import StoryLayout from './StoryLayout'
 
 function ContentLayout() {
   return (
